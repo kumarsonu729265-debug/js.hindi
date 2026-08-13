@@ -31,6 +31,3 @@ obj.name = "rohan"
 console.log(obj);
 
 
-
-
-
